@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: eye_L1
   m_Shader: {fileID: 4800000, guid: ad4081c513e2d8942ad9b2677834e0c8, type: 3}
   m_ShaderKeywords: _GLOSSYREFLECTIONS_OFF _SPECULARHIGHLIGHTS_OFF
@@ -18,6 +19,18 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_30130A5D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_84D9D91C:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_BA1C4ABC:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture_368D2FD7:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -78,8 +91,22 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _TexturesSubgraph_9787F7D7_Texture2D2D151912_3486938972:
+        m_Texture: {fileID: 2800000, guid: 3a3c0acc807e9264ca0b32602a928a9a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TexturesSubgraph_9787F7D7_Texture2D66C3C0FF_1448829706:
+        m_Texture: {fileID: 2800000, guid: f9c6074c5a78e71448f9efd3013cadda, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TexturesSubgraph_9787F7D7_Texture2DBC8CAFFF_652946814:
+        m_Texture: {fileID: 2800000, guid: 7ae1142e9b3a72048960dd9561e0e0d9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
+    - Vector1_25686B8C: 1.53
     - Vector1_66081F2E: 2
+    - Vector1_820B6EEA: 2
     - Vector1_A89EDC06: 0.04
     - _AlphaClip: 0
     - _Blend: 0
@@ -107,6 +134,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_B48E7804: {r: 0.26966894, g: 0.5098506, b: 0.5660378, a: 0}
+    - Color_D949CEC0: {r: 0, g: 0.990566, b: 0.8625885, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _ShadowColor: {r: 0.8, g: 0.8, b: 1, a: 1}
